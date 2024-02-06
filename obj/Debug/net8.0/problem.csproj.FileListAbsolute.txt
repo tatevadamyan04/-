@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\bin\Debug\net8.0\problem.exe
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\bin\Debug\net8.0\problem.deps.json
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\bin\Debug\net8.0\problem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\bin\Debug\net8.0\problem.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\bin\Debug\net8.0\problem.pdb
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\refint\problem.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.pdb
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\ref\problem.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\Итоговая_контрольная_работа_по_основному_блоку\problem\obj\Debug\net8.0\problem.sourcelink.json
