@@ -4,22 +4,16 @@
 //[“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 //[“Russia”, “Denmark”, “Kazan”] → []
 
-// Input array of strings
 Console.WriteLine("Enter strings separated by space:");
 string[] inputArray = Console.ReadLine().Split(' ');
 
-// Filter strings with length <= 3
 string[] resultArray = FilterStrings(inputArray);
 
-// Display the result
 Console.WriteLine("Result:");
 foreach (string str in resultArray)
 {
     Console.Write(str + " ");
 }
-
-Console.ReadLine(); // To keep the console window open
-
 
 static string[] FilterStrings(string[] inputArray)
 {
