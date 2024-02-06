@@ -18,9 +18,6 @@ foreach (string str in resultArray)
     Console.Write(str + " ");
 }
 
-Console.ReadLine(); // To keep the console window open
-
-
 static string[] FilterStrings(string[] inputArray)
 {
     int count = 0;
